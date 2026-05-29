@@ -18,7 +18,7 @@ Ushbu loyiha rasm va videolarni bulutli xotiraga (ImageKit) yuklash va ularni ta
 
 ```bash
 git clone https://github.com/CodeStriker7/FastCloud-Gallery.git
-cd loyiha_nomi
+cd FastCloud-Gallery
 ```
 
 ### 2. `.env` faylini yaratish
