@@ -17,7 +17,7 @@ Ushbu loyiha rasm va videolarni bulutli xotiraga (ImageKit) yuklash va ularni ta
 ### 1. Loyihani klon qilish
 
 ```bash
-git clone https://github.com/foydalanuvchi_nomi/loyiha_nomi.git
+git clone https://github.com/CodeStriker7/FastCloud-Gallery.git
 cd loyiha_nomi
 ```
 
